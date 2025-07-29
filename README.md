@@ -9,20 +9,9 @@
 </div>
 
 <div align="center">
-  <table align="center">
-    <tr align="center">
-      <td>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=TusharCEDS&show_icons=true&theme=tokyonight&icon_color=36BCF7&text_color=FFF&bg_color=1A1B27" alt="Tushar's GitHub stats" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharCEDS&layout=compact&theme=tokyonight&text_color=FFF&bg_color=1A1B27" alt="Top Languages" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=TusharCEDS&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15" alt="Tushar's Trophies" />
+  </a>
 </div>
 
 ---
@@ -80,13 +69,17 @@
 
 ---
 
+### 🌱 Currently Exploring & Learning
+
+<p align="center">
+  <b>Cloud Technologies (AWS/GCP)</b> • <b>DevOps Practices (Docker, CI/CD)</b> • <b>Advanced AI/ML Concepts</b>
+</p>
+
+---
+
 ### 🤝 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tushar-11b51a312/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tushar" height="30" width="40" /></a>
   <a href="https://www.instagram.com/tushar.rohilla.101/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tushar.rohilla.101" height="30" width="40" /></a>
-</p>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=TusharCEDS&label=Profile%20Views&color=blue&style=flat" alt="Tushar's Profile Views" />
 </p>
