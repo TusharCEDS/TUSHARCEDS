@@ -54,13 +54,5 @@ Always eager to **Learn → Build → Iterate → Master**.<br><br>
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TusharCEDS&show_icons=true&theme=react&hide_border=true&count_private=true" alt="Tushar's GitHub Stats"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TusharCEDS&theme=react&hide_border=true" alt="Tushar's Streak Stats"/>
-</div>
-
----
-
 ## ⚡ Fun Fact
 > Debugging a nasty bug at 2 AM feels like solving a real-life detective case 🔍 — and I love it!
