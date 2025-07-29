@@ -9,45 +9,50 @@
 </div>
 
 <div align="center">
-<svg fill="none" viewBox="0 0 800 350" width="800" height="350" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="100%" height="100%">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-            <style>
-                .container {
-                    font-family: 'Fira Code', 'Courier New', monospace;
-                    font-size: 16px;
-                    line-height: 2.2;
-                    background-color: #1A1B27;
-                    color: #E0E2E4;
-                    padding: 25px;
-                    border-radius: 10px;
-                    height: 350px;
-                    box-sizing: border-box;
-                }
-                .line {
-                    opacity: 0;
-                    animation: fadeIn 0.5s forwards;
-                }
-                .prompt { color: #52D852; }
-                .command { color: #82AAFF; }
-                .output { color: #E0E2E4; }
-                .highlight { color: #FFC700; }
-                .cursor {
-                    animation: blink 1s infinite;
-                }
-                @keyframes fadeIn { to { opacity: 1; } }
-                @keyframes blink { 50% { opacity: 0; } }
-            </style>
-            <div class="container">
-                <div class="line" style="animation-delay: 0.2s;"><span class="prompt">$</span> <span class="command">./tushar.sh --init</span></div>
-                <div class="line" style="animation-delay: 1.2s;"><span class="output">[<span class="highlight">◉</span>] Booting up profile...</span></div>
-                <div class="line" style="animation-delay: 2.2s;"><span class="output">[<span class="highlight">◉</span>] Analyzing skills...</span></div>
-                <div class="line" style="animation-delay: 3.2s;"><span class="output">[<span class="highlight">◉</span>] Compiling passions...</span></div>
-                <div class="line" style="animation-delay: 4.2s;"><span class="output"><b>STATUS:</b> <span style="color: #00FF7F;">Ready to build amazing things.</span></span></div>
-                <div class="line" style="animation-delay: 5.2s;"><span class="prompt">$</span> <span class="cursor">█</span></div>
-            </div>
-        </div>
-    </foreignObject>
+<svg viewBox="0 0 800 220" width="800" height="220" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .term-bg { fill: #1A1B27; }
+    .line {
+        font-family: 'Fira Code', 'Courier New', monospace;
+        font-size: 16px;
+        fill: #E0E2E4;
+        opacity: 0;
+        animation: fadeIn 0.5s forwards;
+    }
+    .prompt { fill: #52D852; font-weight: bold; }
+    .command { fill: #82AAFF; }
+    .highlight { fill: #FFC700; }
+    .cursor {
+        fill: #E0E2E4;
+        animation: blink 1s infinite;
+        opacity: 0;
+    }
+    @keyframes fadeIn { to { opacity: 1; } }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  <rect class="term-bg" width="100%" height="100%" rx="10"/>
+
+  <text class="line" x="25" y="40" style="animation-delay: 0.2s;">
+    <tspan class="prompt">$</tspan>
+    <tspan class="command" dx="10">./tushar.sh --init</tspan>
+  </text>
+  <text class="line" x="25" y="70" style="animation-delay: 1.2s;">
+    <tspan>[<tspan class="highlight">◉</tspan>] Booting up profile...</tspan>
+  </text>
+  <text class="line" x="25" y="100" style="animation-delay: 2.2s;">
+    <tspan>[<tspan class="highlight">◉</tspan>] Analyzing skills...</tspan>
+  </text>
+  <text class="line" x="25" y="130" style="animation-delay: 3.2s;">
+    <tspan>[<tspan class="highlight">◉</tspan>] Compiling passions...</tspan>
+  </text>
+  <text class="line" x="25" y="160" style="animation-delay: 4.2s;">
+    <tspan font-weight="bold">STATUS:</tspan>
+    <tspan dx="10" fill="#00FF7F">Ready to build amazing things.</tspan>
+  </text>
+  <text x="25" y="190" style="animation-delay: 5.2s;" class="line">
+    <tspan class="prompt">$</tspan>
+    <tspan class="cursor" dx="10" style="animation-delay: 5.5s;">█</tspan>
+  </text>
 </svg>
 </div>
 
