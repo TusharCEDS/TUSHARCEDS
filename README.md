@@ -1,119 +1,106 @@
+<!-- Cosmic Developer Vibes ✨🚀 -->
+
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Tushar;A+Passionate+Full-Stack+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B%2C+I'm+Tushar;Full-Stack+Craftsman+%7C+Code+Alchemist;Building+Ideas+into+Reality+One+Line+at+a+Time" alt="Typing SVG" />
+  </a>
 </div>
 
+<br/>
+
 <div align="center">
-  <br>
-  <p>I'm a passionate developer from India with a love for building innovative solutions and tackling complex challenges. I thrive on turning ideas into reality through clean, efficient code. Currently seeking opportunities to contribute to exciting projects and grow as a software engineer.</p>
-  <br>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,flask,python,java,cpp,mysql,c,html,css&perline=8" />
 </div>
 
-<div align="center">
-<svg viewBox="0 0 800 220" width="800" height="220" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .term-bg { fill: #1A1B27; }
-    .line {
-        font-family: 'Fira Code', 'Courier New', monospace;
-        font-size: 16px;
-        fill: #E0E2E4;
-        opacity: 0;
-        animation: fadeIn 0.5s forwards;
-    }
-    .prompt { fill: #52D852; font-weight: bold; }
-    .command { fill: #82AAFF; }
-    .highlight { fill: #FFC700; }
-    .cursor {
-        fill: #E0E2E4;
-        animation: blink 1s infinite;
-        opacity: 0;
-    }
-    @keyframes fadeIn { to { opacity: 1; } }
-    @keyframes blink { 50% { opacity: 0; } }
-  </style>
-  <rect class="term-bg" width="100%" height="100%" rx="10"/>
+<br/>
 
-  <text class="line" x="25" y="40" style="animation-delay: 0.2s;">
-    <tspan class="prompt">$</tspan>
-    <tspan class="command" dx="10">./tushar.sh --init</tspan>
-  </text>
-  <text class="line" x="25" y="70" style="animation-delay: 1.2s;">
-    <tspan>[<tspan class="highlight">◉</tspan>] Booting up profile...</tspan>
-  </text>
-  <text class="line" x="25" y="100" style="animation-delay: 2.2s;">
-    <tspan>[<tspan class="highlight">◉</tspan>] Analyzing skills...</tspan>
-  </text>
-  <text class="line" x="25" y="130" style="animation-delay: 3.2s;">
-    <tspan>[<tspan class="highlight">◉</tspan>] Compiling passions...</tspan>
-  </text>
-  <text class="line" x="25" y="160" style="animation-delay: 4.2s;">
-    <tspan font-weight="bold">STATUS:</tspan>
-    <tspan dx="10" fill="#00FF7F">Ready to build amazing things.</tspan>
-  </text>
-  <text x="25" y="190" style="animation-delay: 5.2s;" class="line">
-    <tspan class="prompt">$</tspan>
-    <tspan class="cursor" dx="10" style="animation-delay: 5.5s;">█</tspan>
-  </text>
+<div align="center">
+  <p>
+    🚀 I’m a passionate **Full-Stack Developer** from India who loves turning wild ideas into **real-world solutions**.<br>
+    I thrive on **challenges**, love writing **clean code**, and enjoy working on projects that make an impact.<br>
+    Always eager to **learn**, **build**, and **innovate**.<br><br>
+    🔭 Currently looking for exciting **Software Engineering Opportunities**.<br>
+    🌱 Leveling up my skills in **AI **.<br>
+    💡 I believe in the power of **"Learn → Build → Iterate → Master"**.
+  </p>
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description & Technologies |
+|---------|----------------------------|
+| **[✈️ Travel World](https://github.com/TusharCEDS/Book-and-Travel)** | A sleek, modern website to effortlessly book tours & trips with a user-first design.<br>**Tech Stack**: HTML, CSS, JavaScript |
+| **[📰 News AI](https://github.com/TusharCEDS/News-Aggregator-and-Sentiment-Analysis)** | An intelligent platform aggregating, analyzing & summarizing news articles using NLP & Sentiment Analysis.<br>**Tech Stack**: Python, Flask, NLTK, Next.js |
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,flask,python,java,cpp,mysql,postman,git" />
+</p>
+
+---
+
+## 📟 Terminal Snapshot — "Who is Tushar?"
+
+<div align="center">
+<svg fill="none" viewBox="0 0 800 350" width="800" height="350" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                .terminal {
+                    font-family: 'Fira Code', monospace;
+                    font-size: 18px;
+                    background-color: #0f1117;
+                    color: #00ff7f;
+                    padding: 30px;
+                    border-radius: 12px;
+                    box-shadow: 0 0 20px #00bfff44;
+                }
+                .line { opacity: 0; animation: fadeIn 0.8s forwards; }
+                .delay1 { animation-delay: 0.5s; }
+                .delay2 { animation-delay: 1.5s; }
+                .delay3 { animation-delay: 2.5s; }
+                .delay4 { animation-delay: 3.5s; }
+                .delay5 { animation-delay: 4.5s; }
+                .cursor { animation: blink 1s infinite; }
+                @keyframes fadeIn { to { opacity: 1; } }
+                @keyframes blink { 50% { opacity: 0; } }
+            </style>
+            <div class="terminal">
+                <div class="line delay1">$ ./tushar.sh --init</div>
+                <div class="line delay2">[●] Booting up profile...</div>
+                <div class="line delay3">[●] Loading Tech Arsenal...</div>
+                <div class="line delay4">[●] Crafting Passion Projects...</div>
+                <div class="line delay5"><b>STATUS:</b> <span style="color:#00BFFF;">Ready to build future-proof solutions 🚀</span></div>
+                <div class="line delay5">$ <span class="cursor">█</span></div>
+            </div>
+        </div>
+    </foreignObject>
 </svg>
 </div>
 
 ---
 
-### 🚀 My Projects
-
-<table align="center" width="800px">
-  <thead>
-    <tr>
-      <th width="50%">Project</th>
-      <th>Description & Technologies</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td valign="top">
-        <a href="https://github.com/TusharCEDS/Book-and-Travel"><b>✈️ Travel World</b></a>
-      </td>
-      <td valign="top">
-        A modern website to book tours and trips, featuring a clean user interface and seamless booking experience.
-        <br/><br/>
-        <b>Technologies:</b> <i>HTML, CSS, JavaScript</i>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top">
-        <a href="https://github.com/TusharCEDS/News-Aggregator-and-Sentiment-Analysis"><b>📰 News AI</b></a>
-      </td>
-      <td valign="top">
-        An intelligent news aggregation and summarization platform powered by AI, providing users with concise, unbiased news.
-        <br/><br/>
-        <b>Technologies:</b> <i>Python, Flask, NLTK, Next.js</i>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
----
-
-### 💻 My Tech Stacks
+## 🤝 Let’s Connect & Collaborate
 
 <p align="center">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="flask" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+  <a href="https://www.linkedin.com/in/tushar-11b51a312/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="https://www.instagram.com/tushar.rohilla.101/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+  
 </p>
 
 ---
 
-### 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/tushar-11b51a312/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tushar" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/tushar.rohilla.101/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tushar.rohilla.101" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TusharCEDS&show_icons=true&theme=react&hide_border=true&count_private=true" alt="Tushar's GitHub Stats"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TusharCEDS&theme=react&hide_border=true" alt="Tushar's Streak Stats"/>
+</div>
