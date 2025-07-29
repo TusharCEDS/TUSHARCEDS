@@ -6,10 +6,16 @@
   ---
 
   <h3>🚀 My Projects</h3>
+ 
   <p>
-    <a href="https://github.com/TusharCEDS/Book-and-Travel">Travel World</a>
+    <p align="center">
+       <a href="https://github.com/TusharCEDS/Book-and-Travel">Travel World</a>
+      ➡️ <b>A modern website to book tour and trvels.</b>
+      <a href="https://github.com/TusharCEDS/News-Aggregator-and-Sentiment-Analysis">News AI</a>
+  ➡️ <b>A modern news aggregation and summarization platform powered by AI.</b>
+</p>
     <br />
-    <a href="https://github.com/TusharCEDS/News-Aggregator-and-Sentiment-Analysis">News AI</a>
+    
   </p>
 
   ---
