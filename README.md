@@ -10,7 +10,8 @@
   <p>
     <p align="center">
        <a href="https://github.com/TusharCEDS/Book-and-Travel">Travel World</a>
-      ➡️ <b>A modern website to book tour and trvels.</b>
+      ➡️ <b>A modern website to book tour and trips.</b>
+      <br/>
       <a href="https://github.com/TusharCEDS/News-Aggregator-and-Sentiment-Analysis">News AI</a>
   ➡️ <b>A modern news aggregation and summarization platform powered by AI.</b>
 </p>
