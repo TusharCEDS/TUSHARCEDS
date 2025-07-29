@@ -9,9 +9,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=TusharCEDS&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15" alt="Tushar's Trophies" />
-  </a>
+<a href="https://git.io/JvS0U"><img src="https://github.com/TusharCEDS/TusharCEDS/assets/98483438/98f3fd4b-01e4-4d83-9e45-1c3938b8d009" alt="Tushar's Animated Terminal" /></a>
 </div>
 
 ---
@@ -65,14 +63,6 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-</p>
-
----
-
-### 🌱 Currently Exploring & Learning
-
-<p align="center">
-  <b>Cloud Technologies (AWS/GCP)</b> • <b>DevOps Practices (Docker, CI/CD)</b> • <b>Advanced AI/ML Concepts</b>
 </p>
 
 ---
