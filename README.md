@@ -9,7 +9,89 @@
 </div>
 
 <div align="center">
-<a href="https://git.io/JvS0U"><img src="https://github.com/TusharCEDS/TusharCEDS/assets/98483438/98f3fd4b-01e4-4d83-9e45-1c3938b8d009" alt="Tushar's Animated Terminal" /></a>
+<svg viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        @keyframes draw-line { to { stroke-dashoffset: 0; } }
+        @keyframes blink-cursor { 50% { opacity: 0; } }
+        @keyframes type-text { from { width: 0; } to { width: 100%; } }
+
+        .term-bg { fill: #1A1B27; }
+        .text, .prompt, .command {
+            font-family: 'Fira Code', 'Courier New', Courier, monospace;
+            fill: #E0E2E4;
+            font-size: 14px;
+            white-space: pre;
+        }
+        .prompt { fill: #52D852; }
+        .command { fill: #82AAFF; }
+        .output { fill: #C3E88D; }
+        .line {
+            stroke: #4A4D57;
+            stroke-width: 1;
+            stroke-dasharray: 800;
+            stroke-dashoffset: 800;
+            animation: draw-line 0.5s forwards;
+        }
+        .cursor {
+            fill: #E0E2E4;
+            animation: blink-cursor 1s step-end infinite;
+        }
+        .typing-effect {
+            display: inline-block;
+            overflow: hidden;
+            vertical-align: bottom;
+            animation: type-text 3s steps(60, end) 1s forwards;
+            width: 0;
+        }
+    </style>
+    <rect class="term-bg" width="100%" height="100%" rx="10"/>
+
+    <text x="20" y="40" class="text">
+        <tspan class="prompt">Tushar@portfolio</tspan><tspan> ~$ </tspan>
+        <tspan class="command" dy="0" xml:space="preserve"> ./tushar.sh --info</tspan>
+    </text>
+
+    <text x="20" y="80" class="text" style="animation-delay: 1.5s;">
+        <tspan fill="#FF9A00" dy="0" xml:space="preserve">
+  ______                          __    
+ /_  __/___  ____ ___  ___  _____/ /_   
+  / / / __ \/ __ `__ \/ _ \/ ___/ __/   
+ / / / /_/ / / / / / /  __/ /__/ /_     
+/_/  \____/_/ /_/ /_/\___/\___/\__/     
+        </tspan>
+    </text>
+
+    <text x="20" y="180" class="text">
+        <tspan dy="0" xml:space="preserve" style="animation: type-text 2s steps(40, end) 2s forwards; width: 0;">
+            <tspan fill="#FF5555" font-weight="bold">Identity:</tspan> Full-Stack Developer & Problem Solver
+        </tspan>
+    </text>
+
+    <text x="20" y="210" class="text">
+        <tspan dy="0" xml:space="preserve" style="animation: type-text 2.5s steps(50, end) 4s forwards; width: 0;">
+            <tspan fill="#82AAFF" font-weight="bold">Core Skills:</tspan> [ "Python", "JavaScript/TS", "React/Next.js", "Flask", "SQL" ]
+        </tspan>
+    </text>
+
+    <text x="20" y="240" class="text">
+        <tspan dy="0" xml:space="preserve" style="animation: type-text 3s steps(60, end) 6s forwards; width: 0;">
+            <tspan fill="#C3E88D" font-weight="bold">Current Focus:</tspan> Mastering Cloud Architecture and System Design Principles
+        </tspan>
+    </text>
+
+    <line class="line" x1="20" y1="270" x2="780" y2="270" style="animation-delay: 8.5s;"/>
+
+    <text x="20" y="300" class="text">
+        <tspan dy="0" xml:space="preserve" style="animation: type-text 3s steps(50, end) 9s forwards; width: 0;">
+            <tspan fill="#C792EA" font-weight="bold">Contact:</tspan> Open to collaborations and exciting opportunities. Let's connect!
+        </tspan>
+    </text>
+
+    <text x="20" y="340" class="text">
+        <tspan class="prompt" dy="0" xml:space="preserve" style="animation: type-text 0.5s steps(15, end) 12s forwards; width: 0;">Tushar@portfolio</tspan><tspan style="animation: type-text 0.5s steps(15, end) 12s forwards; width: 0;"> ~$ </tspan>
+        <rect class="cursor" x="185" y="327" width="8" height="16" style="animation-delay: 12.5s;"/>
+    </text>
+</svg>
 </div>
 
 ---
