@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B%2C+I'm+Tushar;Full-Stack+Craftsman+%7C+Code+Alchemist;Building+Ideas+into+Reality+One+Line+at+a+Time" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B%2C+I'm+Tushar;Full-Stack+Craftsman+%7C+Code+Alchemist;Building+Ideas+into+Reality+One+Line+at+a+Time" alt="Typing SVG" />
   </a>
 </div>
 
@@ -41,14 +41,6 @@ Always eager to **Learn → Build → Iterate → Master**.<br><br>
 
 ---
 
-## 📟 Terminal Snapshot — Who is Tushar?
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&lines=$+./tushar.sh+--init;[●]+Booting+up+profile...;[●]+Loading+Tech+Arsenal...;[●]+Crafting+Passion+Projects...;STATUS:+Ready+to+build+future-proof+solutions+🚀" alt="Terminal Typing Animation" />
-</div>
-
----
-
 ## 🤝 Let’s Connect & Collaborate
 
 <p align="center">
@@ -57,9 +49,6 @@ Always eager to **Learn → Build → Iterate → Master**.<br><br>
   </a>
   <a href="https://www.instagram.com/tushar.rohilla.101/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" />
-  </a>
-  <a href="mailto:tusharrohilla101@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
 </p>
 
