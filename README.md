@@ -28,8 +28,8 @@ Always eager to **Learn → Build → Iterate → Master**.<br><br>
 
 | Project | Description & Tech Stack |
 |---------|--------------------------|
-| **[✈️ Travel World](https://github.com/TusharCEDS/Book-and-Travel)** | A modern website to book tours & trips with a user-first design.<br>**Tech Stack**: HTML, CSS, JavaScript |
-| **[📰 News AI](https://github.com/TusharCEDS/News-Aggregator-and-Sentiment-Analysis)** | An AI-powered platform for news aggregation & sentiment analysis.<br>**Tech Stack**: Python, Flask, NLTK, Next.js |
+| **[✈️ Travel World](https://github.com/TusharCEDS/Book-and-Travel)** | A modern website to book tours & trips with a user-first design.<br/> |
+| **[📰 News AI](https://github.com/TusharCEDS/News-Aggregator-and-Sentiment-Analysis)** | An AI-powered platform for news aggregation & sentiment analysis.<br> |
 
 ---
 
