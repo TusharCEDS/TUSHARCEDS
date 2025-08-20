@@ -32,15 +32,12 @@ Always eager to **Learn → Build → Iterate → Master**.<br><br>
 | **[📰 News AI](https://github.com/TusharCEDS/News-Aggregator-and-Sentiment-Analysis)** | An AI-powered platform for news aggregation & sentiment analysis.<br> |
 
 ---
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,flask,python,java,cpp,mysql,postman,git" />
-</div>
-
----
-
+## 🌐 Portfolio  
+<p align="center">
+  <a href="https://personal-solo-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Visit%20Portfolio-%2300C4CC?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 ## 🤝 Let’s Connect & Collaborate
 
 <p align="center">
@@ -53,6 +50,31 @@ Always eager to **Learn → Build → Iterate → Master**.<br><br>
 </p>
 
 ---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,flask,python,java,cpp,mysql,postman,git" />
+</div>
+
+---
+
+![TUSHAR's Stats]()
+## 📊 GitHub Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TusharCEDS&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="170"/>
+</div>
+
+---
+
+## 📌 Currently  
+- 🔭 Working on **NueroVault** - Cloud Storage with AI  
+- 🌱 Learning **Backend Development** & **AI**  
+
+---
+
+
+
 
 ## ⚡ Fun Fact
 > Debugging a nasty bug at 2 AM feels like solving a real-life detective case 🔍 — and I love it!
