@@ -38,6 +38,7 @@ Always eager to **Learn → Build → Iterate → Master**.<br><br>
     <img src="https://img.shields.io/badge/Visit%20Portfolio-%2300C4CC?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
+---
 ## 🤝 Let’s Connect & Collaborate
 
 <p align="center">
@@ -72,9 +73,4 @@ Always eager to **Learn → Build → Iterate → Master**.<br><br>
 - 🌱 Learning **Backend Development** & **AI**  
 
 ---
-
-
-
-
-## ⚡ Fun Fact
-> Debugging a nasty bug at 2 AM feels like solving a real-life detective case 🔍 — and I love it!
+⭐ **Feel free to check out my repositories and give them a star if you like!**
