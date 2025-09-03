@@ -62,11 +62,9 @@ Always eager to **Learn → Build → Iterate → Master**.<br><br>
 
 ---
 
-![TUSHAR's Stats]()
-## 📊 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TusharCEDS&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="170"/>
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=TusharCEDS&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=TusharCEDS&theme=tokyonight&hide_border=false)<br/>
 
 ---
 
