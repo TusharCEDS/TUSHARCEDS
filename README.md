@@ -41,15 +41,10 @@ Always eager to **Learn → Build → Iterate → Master**.<br><br>
 
 ---
 
-## 🤝 Let’s Connect & Collaborate
-
+## 📬 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/tushar-11b51a312/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-  <a href="https://www.instagram.com/tushar.rohilla.101/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
-  </a>
+  <a href="https://www.linkedin.com/in/himanshuverma192005/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/himanshu._.verma2005/"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
