@@ -12,16 +12,6 @@
 
 ---
 
-## 🌟 About Me
-
-🚀 I’m a passionate **Full-Stack Developer** from India who loves turning wild ideas into **real-world solutions**.<br>
-I thrive on **challenges**, love writing **clean code**, and enjoy working on projects that make an impact.<br>
-Always eager to **Learn → Build → Iterate → Master**.<br><br>
-🔭 Currently exploring **AI & Scalable Web Applications**.<br>
-📈 Open to **Software Engineering Internships & Freelance Collaborations**.<br>
-
----
-
 ## 🚀 Featured Projects
 
 | Project | Description & Tech Stack |
