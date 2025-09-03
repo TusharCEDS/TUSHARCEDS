@@ -8,9 +8,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,flask,python,java,cpp,mysql,c,html,css&perline=8" />
-</div>
+<h2 align="center">💻 3rd Year B.Tech Student | Logic Builder | Developer🧠</h2>
 
 ---
 
