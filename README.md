@@ -21,7 +21,11 @@
 | **[📰 News AI](https://github.com/TusharCEDS/News-Aggregator-and-Sentiment-Analysis)** | An AI-powered platform for news aggregation & sentiment analysis.<br> |
 
 </div>
+
+
 ---
+
+
 ## 🌐 Portfolio  
 <p align="center">
   <a href="https://personal-solo-portfolio.netlify.app/">
