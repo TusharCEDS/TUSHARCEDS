@@ -13,12 +13,12 @@
 ---
 
 ## 🚀 Featured Projects
-
+<div align="center">
 | Project | Description & Tech Stack |
 |---------|--------------------------|
 | **[✈️ Travel World](https://github.com/TusharCEDS/Book-and-Travel)** | A modern website to book tours & trips with a user-first design.<br/> |
 | **[📰 News AI](https://github.com/TusharCEDS/News-Aggregator-and-Sentiment-Analysis)** | An AI-powered platform for news aggregation & sentiment analysis.<br> |
-
+</div>
 ---
 ## 🌐 Portfolio  
 <p align="center">
