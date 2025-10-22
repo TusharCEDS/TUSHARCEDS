@@ -19,7 +19,9 @@
 |---------|--------------------------|
 | **[✈️ Travel World](https://github.com/TusharCEDS/Book-and-Travel)** | A modern website to book tours & trips with a user-first design.<br/> |
 | **[📰 News AI](https://github.com/TusharCEDS/News-Aggregator-and-Sentiment-Analysis)** | An AI-powered platform for news aggregation & sentiment analysis.<br> |
-
+| [**Healthify**](https://healthify-9cw5.onrender.com/) | 🩺 Symptom-based disease prediction & treatment recommendations. |
+| [**NueroVault**](https://github.com/TusharCEDS/NueroVault) | ☁️ Cloud storage with AI integration. |
+| [**Portfolio**](https://personal-solo-portfolio.netlify.app) | 🌐 Portfolio  |
 </div>
 
 
